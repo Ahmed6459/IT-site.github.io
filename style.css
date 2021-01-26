@@ -21,7 +21,7 @@ body{
 /* start of header */
 
 .header{
-    background-image: url("/pic/header.jpg") ;
+    background-image: url("./pic/header.jpg") ;
     background-size: cover;
     min-height: 100VH;
     position: relative;
@@ -657,7 +657,7 @@ margin-top: 10px;
 
 .stylish{
     padding: 50px 0;
-    background: url("/pic/startup-593341_1920.jpg") no-repeat top center;
+    background: url("./pic/startup-593341_1920.jpg") no-repeat top center;
     background-size: cover;
     position: relative;
     min-height: 320px;
